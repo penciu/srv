@@ -1,0 +1,18 @@
+Index: public/js/app.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- public/js/app.js	(revision 00294db8a549d891ee3d6c10e09d2bcc8e006064)
++++ public/js/app.js	(date 1604428131355)
+@@ -103736,8 +103736,8 @@
+ /*! no static exports found */
+ /***/ (function(module, exports, __webpack_require__) {
+ 
+-__webpack_require__(/*! /Users/basith/Desktop/envato/chef/resources/js/app.js */"./resources/js/app.js");
+-module.exports = __webpack_require__(/*! /Users/basith/Desktop/envato/chef/resources/sass/app.scss */"./resources/sass/app.scss");
++__webpack_require__(/*! C:\xampp\htdocs\store-web\resources\js\app.js */"./resources/js/app.js");
++module.exports = __webpack_require__(/*! C:\xampp\htdocs\store-web\resources\sass\app.scss */"./resources/sass/app.scss");
+ 
+ 
+ /***/ })
