@@ -1,10 +1,9 @@
 <IfModule mod_rewrite.c>
     <IfModule mod_negotiation.c>
         Options -MultiViews -Indexes
-         RewriteEngine On
- RewriteRule ^([^/]+) index.php?id=$1 [L]
+
     </IfModule>
-    
+ RewriteRule ^([^/]+) index.php?id=$1 [L]
 
     RewriteEngine On
 
